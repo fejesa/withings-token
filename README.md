@@ -12,12 +12,12 @@ To build the app run ``mvn compile``.
 
 ## How to setup?
 Set the application properties, like
-``
+```
 withings.api.tokenHost = https://account.withings.com/oauth2/token
 withings.api.clientId = your client id
 withings.api.clientSecret = your client secret
 withings.api.redirectUri = your redirect URI
-``
+```
 
 ## How to run?
 Firstly you need to get your authentication code from [Withings](https://developer.withings.com/oauth2/#tag/OAuth-2.0%2Fpaths%2Fhttps%3A~1~1account.withings.com~1oauth2_user~1authorize2%3Fresponse_type%3Dcode%5B...%5D%2Fget).
