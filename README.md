@@ -1,6 +1,8 @@
-# withings-token
+# Withings-token client
 OAuth 2.0 client for Withings Health Mate API.
-Register your application by filling this [form](https://account.withings.com/partner/dashboard_oauth2).
+Use this simple java app to fetch your access and refresh tokens from Withings.
+
+Firstly register your application by filling this [form](https://account.withings.com/partner/dashboard_oauth2).
 
 ## Requirements
 Install Java 11 and Maven.
